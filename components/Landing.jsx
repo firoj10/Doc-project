@@ -17,9 +17,7 @@ const Landing = () => {
                 it. Teach people the ins and outs of OAuth 2.0 and JWTs in style
                 with Protocol, a beautiful API documentation template.
               </p>
-<h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+
               <div className="mt-10 flex flex-wrap gap-4">
                 <Link
                   href="/docs/introduction"
