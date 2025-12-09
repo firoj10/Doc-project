@@ -76,7 +76,7 @@ const Search = ({ docs }) => {
   className="
     flex-1
     bg-transparent
-    text-sm text-gray-700 dark:text-gray-200
+    text-sm text-black 
     placeholder-gray-400 dark:placeholder-gray-400
     focus:outline-none
   "

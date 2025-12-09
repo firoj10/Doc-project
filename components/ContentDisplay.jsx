@@ -13,7 +13,7 @@ const ContentDisplay = async ({ id }) => {
       <div className="mb-4">
         <span>Published On: {documentContent.date}</span> by{" "}
         <Link
-          href={`/author/${documentContent.author}`}
+          href={`/authors/${documentContent.author}`}
           className="inline-block bg-green-600 text-white px-1  rounded hover:bg-green-700 transition"
         >
           {documentContent.author}
